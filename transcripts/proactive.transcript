@@ -1,0 +1,179 @@
+[
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "1",
+    "timestamp": "2019-03-16T14:58:40.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+        "name": "firstbot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "from": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "text": "SOH mismatch stock not found in store for the article 15311, Do you like to action it ?;\r\n    buttons=Set To Zero|Action Later",
+    "timestamp": "2019-03-16T14:58:42.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "text": "Set to Zero",
+    "timestamp": "2019-03-16T14:58:44.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "from": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "text": "Posting the SOH to Zero",
+    "timestamp": "2019-03-16T14:58:46.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "from": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "text": "SOH mismatch stock not found in store for the article 15311, Do you like to action it ?;\r\n    buttons=Set To Zero|Action Later",
+    "timestamp": "2019-03-16T14:58:48.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "6",
+    "recipient": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "text": "Action Later",
+    "timestamp": "2019-03-16T14:58:50.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "7",
+    "recipient": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "from": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "text": "Thank, Do you want me to remind you after 10 mins again ?.",
+    "timestamp": "2019-03-16T14:58:52.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "8",
+    "recipient": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "text": "Yes",
+    "timestamp": "2019-03-16T14:58:54.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "IPXpS9Kl/2DhvwhNG29dmJM0670="
+    },
+    "id": "9",
+    "recipient": {
+      "id": "tDaux9afRPs5vKrpaQr3orVHNmM=",
+      "name": "Guru",
+      "role": "user"
+    },
+    "from": {
+      "id": "b1KCEis4RZrec/eNjU0zWmsC3Pc=",
+      "name": "firstbot",
+      "role": "bot"
+    },
+    "text": "Sure will remind you after 10 mins.",
+    "timestamp": "2019-03-16T14:58:56.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

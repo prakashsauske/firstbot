@@ -1,0 +1,7 @@
+{
+  "appId": "d977a99a-66f7-44e3-bacd-2f32b786b74a",
+  "authoringKey": "1d9270715db2457a9d9a88c4e6253534",
+  "versionId": "0.1",
+  "region": "westus",
+  "endpointBasePath" : "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/d977a99a-66f7-44e3-bacd-2f32b786b74a?verbose=true&timezoneOffset=-360&subscription-key=1d9270715db2457a9d9a88c4e6253534&q="
+}

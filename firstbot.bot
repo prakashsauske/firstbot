@@ -1,0 +1,47 @@
+{
+    "name": "firstbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "fee41c40-47f6-11e9-81de-6144027e1160",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "qna",
+            "name": "SampleWowQna",
+            "kbId": "3146b147-a6df-4b99-b1aa-740402cd3b20",
+            "subscriptionKey": "073f94b7-7212-4483-8e82-a5f31f5ac889",
+            "endpointKey": "d3f0d942-79d7-46cd-a327-8f28088384a4",
+            "hostname": "https://samplewowqna.azurewebsites.net/qnamaker",
+            "id": "9"
+        },
+        {
+            "type": "luis",
+            "appId": "d977a99a-66f7-44e3-bacd-2f32b786b74a",
+            "authoringKey": "1d9270715db2457a9d9a88c4e6253534",
+            "versionId": "0.1",
+            "region": "westus",
+            "endpointBasePath": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/d977a99a-66f7-44e3-bacd-2f32b786b74a?verbose=true&timezoneOffset=-360&subscription-key=1d9270715db2457a9d9a88c4e6253534&q="
+        },
+        {
+            "type": "blob",
+            "name": "firstbotblog",
+            "serviceName": "firstbotblog",
+            "tenantId": "guruprakashe@gmail.com",
+            "subscriptionId": "073f94b7-7212-4483-8e82-a5f31f5ac889",
+            "resourceGroup": "ConnectedStores",
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=firstbotblog;AccountKey=H+/1D+WykGbvVD0PJ3E0HAx5Pu53mJtJ67MhPEdegFGs1dx4w4lmAU+VSraTAUiovx9jChE4TNA86FEUC3g2gA==;EndpointSuffix=core.windows.net",
+            "container": "firstbotblog",
+            "containerName": "firstbotblog",
+            "id": "66"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\NGBO_NEW_WS\\FirstBot\\firstbot.bot"
+}

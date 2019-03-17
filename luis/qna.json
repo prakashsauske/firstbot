@@ -1,0 +1,34 @@
+{
+  "urls": [],
+  "qnaList": [
+    {
+      "id": 0,
+      "answer": "* It is called next generation back office system, once of the 1store program\r\n* Developed, Tested and supported by TCS\r\n* Key peoples are who managed NGBO are Palani, Prasanna, Dinesh, Rakesh.\r\n* Developed by Karteek, Durai, Guru, Kaling, Gowri, Aleena, Maha, Muthu, Murali, Rajesh.\r\n* Functional Tested by Sarav, Suresh, Surya,Vamshidar, Harish, Aswini, Kaavya\r\n* Supported by Mani, Sudhakar, Gowtham,Naveen.\r\n* Performance tested by samer, praveen.",
+      "source": "custom editorial",
+      "questions": [
+        "what is NGBO?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "* Ux designer\r\n* Mobile app developer\r\n* Browser app developer\r\n* NGBO Strong Pilar",
+      "source": "custom editorial",
+      "questions": [
+        "What is Durai Role?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "* Father of NGBO",
+      "source": "custom editorial",
+      "questions": [
+        "Who is Palani?"
+      ],
+      "metadata": []
+    }
+  ],
+  "files": [],
+  "name": "qna"
+}

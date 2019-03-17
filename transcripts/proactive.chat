@@ -1,0 +1,20 @@
+user=Guru
+bot=firstbot
+
+bot: SOH mismatch stock not found in store for the article 15311, Do you like to action it ?;
+    buttons=Set To Zero|Action Later
+
+user: Set to Zero
+
+bot: Posting the SOH to Zero
+
+bot: SOH mismatch stock not found in store for the article 15311, Do you like to action it ?;
+    buttons=Set To Zero|Action Later    
+
+user:Action Later
+
+bot: Thank, Do you want me to remind you after 10 mins again ?.
+
+user: Yes
+
+bot: Sure will remind you after 10 mins.
